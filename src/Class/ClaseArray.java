@@ -76,6 +76,17 @@ public class ClaseArray {
         SimpleDateFormat sdf = new SimpleDateFormat("yyyy/MM/dd");
         String fechaComoCadena = sdf.format(new Date());
         System.out.println(fechaComoCadena);
+		
+		
+		
+		/*
+		Este es un comentario para verificar que la actualización es solo de código.
+		PD: This is insane XD
+		
+		
+		
+		
+		*/
 
     }
 
